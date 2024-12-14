@@ -125,20 +125,14 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=�
 ---------------
 
 
-### <br>    ❖ SESSION_ID ❖
+### <br>    ❖ CREATE ACCOUNT HOST.TALKDROVE WEB ❖
 
-
-`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
-
-----------
 
 <p align="center">
 <a href="https://webpair-mega-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/Signup H.TALKDROVE-blue?style=for-the-badge&logo=render"></a>
 <p/>
 
-----------
-
-----------
+### <br>    ❖  FREE DEPLOY HOST.TALKDROVE WEB ❖
 
 <p align="center">
 <a href="https://express-pairing-code2-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/DEPLOY H.TALKDROVE-blue?style=for-the-badge&logo=render"></a>
@@ -154,105 +148,7 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=�
  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/SILENTLOVER40/SILENT-SOBX-MD)
 
-----------
-
-### <br>    ❖ DEPLOY_REPLIT ❖
-
-`✠ IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY SILENT-SOBX-MD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT ✠`
-
--------------
-
-<p align="left"><a href="https://repl.it/github/SILENTLOVER40/SILENT-SOBX-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
---------------
-
-### <br>   ❖ DEPLOY_KOYEB ❖
-
-`✠ IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY SILENT-SOBX-MD ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
-
----------
-
-<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-
-------------
-
-### <br>  ❖ DEPLOY_RAILWAY ❖
-
-`✠ IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY SILENT-SOBX-MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
-
---------
-
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
-
----------------
-
-### <br> ❖ MORE DEPLOY METHOD ❖
-
---------
-### <br>   ❖ DEPLOY_GLITCH ❖
-
-<a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
-
---------
-
-### <br>   ❖ DEPLOY_CODESPACE ❖
-
-<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
-
---------
-
-### <br>   ❖ DEPLOY_RENDER ❖
-
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
-
------------
-
-### <br>   ❖ DEPLOY_WORKFLOWS ❖
-```
-name: Node.js CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
-```
-
------------
-
-`✠ HOW TO DEPLOY SILENT-SOBX-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
-
--------------
-
-<p align="center">
-   <a href="https://youtu.be/jn8_kP5xxP4?si=LOydtNtHyv3nfzEB"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
-    </a>
+-
 </p>
 
 -------------
