@@ -133,7 +133,7 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=ðŸ¥
 ----------
 
 <p align="center">
-<a href="https://webpair-mega-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/Signup H.TALKDROVE:-black?style=for-the-badge&logo=render"></a>
+<a href="https://webpair-mega-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/Signup H.TALKDROVE-blue?style=for-the-badge&logo=render"></a>
 <p/>
 
 ----------
@@ -141,7 +141,7 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=ðŸ¥
 ----------
 
 <p align="center">
-<a href="https://express-pairing-code2-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/DEPLOY H.TALKDROVE:-black?style=for-the-badge&logo=render"></a>
+<a href="https://express-pairing-code2-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/DEPLOY H.TALKDROVE-blue?style=for-the-badge&logo=render"></a>
 <p/>
 
 ----------
